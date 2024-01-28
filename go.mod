@@ -40,7 +40,7 @@ require (
 	google.golang.org/grpc v1.57.1
 	google.golang.org/protobuf v1.31.0
 	gopkg.in/yaml.v3 v3.0.1
-	rsc.io/markdown v0.0.0-20231214224604-88bb533a6020
+	rsc.io/markdown v0.0.0-20240117044121-669d2fdf1650
 )
 
 require (
