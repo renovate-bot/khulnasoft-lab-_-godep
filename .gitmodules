@@ -1,0 +1,15 @@
+[submodule "playground"]
+	path = playground
+	url = https://github.com/golang/playground.git
+[submodule "module"]
+	path = module
+	url = https://github.com/golang/mod
+[submodule "net"]
+	path = net
+	url = https://github.com/golang/net
+[submodule "cache"]
+	path = cache
+	url = https://github.com/golang/groupcache
+[submodule "geometry"]
+	path = geometry
+	url = https://github.com/golang/geo
