@@ -19,6 +19,7 @@ require (
 	github.com/go-redis/redis_rate/v9 v9.1.2
 	github.com/golang-migrate/migrate/v4 v4.15.1
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+	github.com/golang/protobuf v1.5.3
 	github.com/google/go-cmp v0.6.0
 	github.com/google/go-replayers/httpreplay v1.0.0
 	github.com/google/licensecheck v0.3.1
@@ -59,7 +60,6 @@ require (
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
 	github.com/go-logr/logr v1.2.4 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
-	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/google/martian v2.1.0+incompatible // indirect
 	github.com/google/pprof v0.0.0-20211008130755-947d60d73cc0 // indirect
 	github.com/google/s2a-go v0.1.7 // indirect
