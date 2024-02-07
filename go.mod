@@ -3,7 +3,7 @@ module github.com/khulnasoft-lab/godep
 go 1.19
 
 require (
-	cloud.google.com/go/cloudtasks v1.12.4
+	cloud.google.com/go/cloudtasks v1.12.6
 	cloud.google.com/go/errorreporting v0.3.0
 	cloud.google.com/go/logging v1.9.0
 	cloud.google.com/go/profiler v0.1.1
